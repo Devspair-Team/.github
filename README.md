@@ -1,12 +1,12 @@
-<h1 align="center">Devspair Team</h1>
+<h1 align="center">Devspair</h1>
 <div align="center">
     <img width="400" src="./assets/logo/devspair.svg">
 </div>
-<p align="center">Team of code enthusiasts</p>
+<p align="center">Shared data in the organization</p>
 
-<h2 align="center">Aims</h2>
+<h2 align="center">Description</h2>
 
-<p align="center">This team aims to master coding while providing the community with open source projects</p>
+<p align="center">Repository aimed at holding shared oranization files and hosting the organization's page</p>
 
 <h2 align="center">Owners</h2>
 <div align="center">
