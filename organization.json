@@ -13,12 +13,12 @@
 		"Backest": {
 			"Role": "Owner",
 			"Url": "https://github.com/Backist",
-			"Email": ""
+			"Email": "alvarodrumer54@gmail.com"
 		}
 	],
 	"Projects": [
 		".github": {
-			"Creator": "TheWisker",
+			"Creator": "Devspair",
 			"Description": "Shared data in the organization",
 			"Tags": ["organization", "dataspace", "devspair"]	
 		}
