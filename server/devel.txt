@@ -1,0 +1,1 @@
+Folder aimed to hold the static Devspair front-end page 

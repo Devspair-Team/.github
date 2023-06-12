@@ -1,0 +1,26 @@
+{
+	"Name": "Devspair",
+	"Location": "Spain",
+	"Id": "Devspair-Team",
+	"Email": "Devspair@protonmail.com",
+	"Description": "Team with the aims to master coding while providing the community with open source projects",
+	"Team": [
+		"TheWisker": {
+			"Role": "Owner",
+			"Url": "https://github.com/TheWisker",
+			"Email": "TheWisker@protonmail.com"
+		},
+		"Backest": {
+			"Role": "Owner",
+			"Url": "https://github.com/Backist",
+			"Email": ""
+		}
+	],
+	"Projects": [
+		".github": {
+			"Creator": "TheWisker",
+			"Description": "Shared data in the organization",
+			"Tags": ["organization", "dataspace", "devspair"]	
+		}
+	]
+}
