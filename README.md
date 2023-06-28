@@ -1,12 +1,14 @@
-<h1 align="center">Devspair</h1>
+<h1 align="center">Devspair Data</h1>
 <div align="center">
-    <img width="400" src="./assets/logo/devspair.svg">
+    <a href="https://github.com/Devspair-Team">
+        <img width="400" src="./assets/logo/devspair.svg">
+    </a>
 </div>
-<p align="center">Shared data in the organization</p>
+<p align="center">Public data in the organization</p>
 
 <h2 align="center">Description</h2>
 
-<p align="center">Repository aimed at holding shared oranization files and hosting the organization's page</p>
+<p align="center">Repository aimed at holding public oranization files and hosting the organization's page</p>
 
 <h2 align="center">Owners</h2>
 <div align="center">

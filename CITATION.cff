@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use our software in your work, or make a fork of it, please cite it using the following metadata."
+authors:
+- given-names: "Devspair"
+title: "Devspair Project"
+version: 1.0.0
+date-released: 2023-06-28
+url: "https://github.com/Devspair-Team"

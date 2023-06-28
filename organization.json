@@ -4,7 +4,7 @@
 	"Id": "Devspair-Team",
 	"Email": "Devspair@protonmail.com",
 	"Description": "Team with the aims to master coding while providing the community with open source projects",
-	"Team": [
+	"Team": {
 		"TheWisker": {
 			"Role": "Owner",
 			"Url": "https://github.com/TheWisker",
@@ -15,12 +15,17 @@
 			"Url": "https://github.com/Backist",
 			"Email": "alvarodrumer54@gmail.com"
 		}
-	],
-	"Projects": [
+	},
+	"Projects": {
 		".github": {
 			"Creator": "Devspair",
-			"Description": "Shared data in the organization",
+			"Description": "Public data in the organization",
 			"Tags": ["organization", "dataspace", "devspair"]	
+		},
+		"Notes": {
+			"Creator": "Devspair",
+			"Description": "Advanced markdown-able note-taking rust application",
+			"Tags": ["note", "desktop", "rust", "advanced", "markdown"]	
 		}
-	]
+	}
 }
